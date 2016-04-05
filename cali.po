@@ -1,0 +1,572 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Cali's Website Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-06 00:56+0800\n"
+"PO-Revision-Date: 2015-09-06 10:21+0800\n"
+"Last-Translator: CALI CASTLE <cali@calicastle.com>\n"
+"Language-Team: Cali & Julian <cali@calicastle.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+
+#: index.php:26
+msgid "主页"
+msgstr "Main Page"
+
+#: index.php:52
+msgid "自我介绍"
+msgstr " Introduction"
+
+#: index.php:53
+msgid "热衷"
+msgstr "Keen"
+
+#: index.php:54
+msgid "经历"
+msgstr "Experience"
+
+#: index.php:55
+msgid "作品"
+msgstr "Creations"
+
+#: index.php:56
+msgid "朋友"
+msgstr "Friends"
+
+#: index.php:57
+msgid "关于我"
+msgstr "About Me"
+
+#: index.php:73
+msgid "欢迎光临<span>Cali</span>的小站"
+msgstr "Welcome to <span>Cali's</Span> Page"
+
+#: index.php:74
+msgid "继续往下滑动"
+msgstr "Scroll Down"
+
+#: index.php:79
+msgid "Abletive创始人"
+msgstr "Founder of Abletive"
+
+#: index.php:96
+msgid "Hi, 打声招呼，先自我介绍一下"
+msgstr "Hi, let me introduce myself"
+
+#: index.php:97
+msgid "我叫Cali, 全名是"
+msgstr "My name's Cali. My full name is &nbsp;"
+
+#: index.php:97
+msgid "今年"
+msgstr "Now I’m &nbsp;"
+
+#: index.php:97
+msgid ""
+"岁，单身，身高...好像有哪里不对...总之你看到的\"<strong>Mr.Cali</strong>\"就"
+"是我，不过那是我比较早期的名字了。嗯。。。中文名呢，是“<strong>郭晓楠</"
+"strong>”，就告诉一下你啦，毕竟大家都还是叫我Cali,或者拼音读法：<strong>擦力/"
+"擦里</strong> 等等奇葩的叫法(都归功于各位朋友). 关于我的更多详情，请继续往下"
+"看哦 "
+msgstr ""
+"&nbsp; years old, still single, my height is … wait, what am I saying… But "
+"anyways, when you see “<strong>Mr.Cali</strong>”, it’s me, but this is my "
+"former alias. So… wanna know more about me? Cool, scroll down to read more~"
+
+#: index.php:106
+msgid "我热衷于"
+msgstr "I'm intrested in"
+
+#: index.php:112
+msgid "音乐"
+msgstr "Music"
+
+#: index.php:113
+msgid ""
+"小时候学会了二胡与萨克斯，但从初二开始我买了第一个电容麦，开始在家里用Au翻"
+"唱，在此之前比较喜欢的是<strong>Eminem</strong> 等人的Hip Hop/Rap风格歌曲，直"
+"到高考之际无意间听到了<strong>Skrillex</strong> 的歌并且接触了"
+"<strong>Launchpad与Ableton Live</strong>. 就此开始了制作电子乐的旅途。目前为"
+"止已经发表多张EP与2张专辑."
+msgstr ""
+"When I was small I learned Erhu and Saxophone, when I was in my second year "
+"of middle school I bought my first microphone and started using AU to cover "
+"songs at home. I used to like <strong>Eminem</strong> and others alike him "
+"that sang in a hip hop/rap genre of music, from there until my exams during "
+"high school years I discovered  <strong>Skrillex</strong> by accident . "
+"Skrillex’s songs was what got me into <strong>Launchpad and Ableton Live</"
+"strong>. From there on out I got into making electronic music. Since then I "
+"have released many EPs and 2 Albums."
+
+#: index.php:119
+msgid "编程"
+msgstr "Programming"
+
+#: index.php:120
+msgid ""
+"通俗说就是敲代码，不过我更喜欢解决问题的过程与享受结果的喜悦。选的大学专业是"
+"<strong>软件技术</strong>，我在不会编程的时候就开始喜欢上了编程，慢慢的领悟了"
+"许许多多的编程奥秘。逐渐掌握<strong>C, C++, C#, Objective-C, Swift</strong>等"
+"基本语言，还有<strong>PHP, ASP(VB)</strong>等服务器端脚本语言. 最后"
+"<strong>HTML,CSS,Javascript</strong>网页前端三剑客也是在投入了大量的时间精力"
+"后换取到的."
+msgstr ""
+"Simply it’s just typing codes, but I like solving problems and during "
+"programming I enjoy the results of my work. I chose <strong>Software "
+"Development</strong> as my study option for University. I learned "
+"programming from scratch and I loved it, I slowly understood the meaning of "
+"programming along with its mysteries. I slowly got a hang of <strong>C, C++, "
+"C#, Objective-C, Swift</strong> and other basic programming languages, I "
+"also learned <strong>PHP, ASP(VB)</strong> and other server-side scripts. "
+"Lastly I got to know <strong>HTML, CSS, JavaScript</strong>. The front page "
+"took lots of strength and energy to be able for it to be produced."
+
+#: index.php:126
+msgid "苹果"
+msgstr "Apple"
+
+#: index.php:127
+msgid ""
+"其实我已经算是果粉了，从最初开始买了iPhone 4的那一天起，我就被<strong>iOS</"
+"strong>的独特魅力深深吸引住了（甚至我会很在意别人大小写拼写），后陆续入的产品"
+"有<strong>iPod nano 7, iPad Air, MacBook Air与Apple Watch</strong>. 现在才发"
+"现每一系列都集齐了! 最后<strong>Mac OS X</strong>操作系统更是喜欢"
+"<strong>Unix</strong>的稳定与<strong>Apple</strong>的酷炫UI&amp;交互相结合，"
+"再与Trackpad手势在一起使用简直大赞."
+msgstr ""
+"I'm actually an Apple fan. The day I bought the iPhone 4s I was sucked in by "
+"the power of &nbsp;<strong>iOS</strong>&nbsp;(I would also use take care "
+"when writing the upper and lower cases of the names) After that, I bought "
+"many products from Apple including: <strong>iPod nano 7, iPad Air, MacBook "
+"Air and Apple Watch</strong>."
+
+#: index.php:149
+msgid "现场表演经历"
+msgstr "Live show experience"
+
+#: index.php:150
+msgid "曾在各种嘻哈/电音派对担任DJ"
+msgstr "DJed at many different Hip-hop/Electronic parties"
+
+#: index.php:152
+msgid ""
+"2014年在深圳职业技术学院计算机工程学院举办的计震四座大赛中表演的古典与现代的"
+"结合《神话》获得了最佳人气奖。"
+msgstr ""
+"I won the People Award at my university Talent Show by performing a remix of "
+"&lt;Myth&gt; in 2014, Shenzhen Polytechnic"
+
+#: index.php:154
+msgid "Launchpad是我表演的必备工具，还有Allen &amp; Heath Xone K2也少不了。"
+msgstr ""
+"Launchpad is one of my standard toolkit when I DJ, and yes, Allen &amp; "
+"Heath Xone K2!"
+
+#: index.php:155
+msgid ""
+"2014年6月受邀共赴成都参加首届Eminem歌迷会，表演歌曲《Seduction》，"
+"《Cinderella Man》，《Renegade》，并献唱即将发行的首张MIXTAPE混音专辑《C.A.L."
+"N.I.C》中的歌曲《Sing 4 the Moment》，反响热烈，得到成都Eminem粉丝们的极大欢"
+"迎和支持；"
+msgstr ""
+"I was invited to Chengdu Eminem Fans Show in June, 2014, rapped [Seduction], "
+"[Cinderella Man], [Renegade] and one of my upcoming mixtape [C.A.L.N.I.C], "
+"[Sing 4 the Moment]. We got the crowd screaming and super high that night, "
+"so that was quite a success."
+
+#: index.php:158
+msgid "成长经历"
+msgstr "What I went through"
+
+#: index.php:159
+msgid ""
+"2010开始在网络上发表翻唱视频，后来在2013年独立发行了《Start of the Road》嘻哈"
+"专辑 ，2014年与IverNick搭档组合成了电音说唱组合凯尔尼克（Calnic）"
+msgstr ""
+"I started covering songs in 2010, then I released my debut hiphop mixtape "
+"[Start of the Road], IverNick and I became an Electronic Hiphop Duo "
+"afterwards in 2014, called Calnic"
+
+#: index.php:160
+msgid ""
+"在此之前很多歌曲也有许多人参加了合作，例如香港的Holcomb,美国的Izzo,加拿大的"
+"JimBuffy以及同深圳的Ivernick和同中国的iShadow，与Ivernick组合成Calnic发行新合"
+"作专辑，也即将于iShadow组合成Big Chaos发行新合作电子EP专辑。"
+msgstr ""
+"I collaborated with a lot of friends before, like Holcomb from HongKong, "
+"Izzo from the U.S, JimBuffy from Canada, IverNick from Shenzhen too and also "
+"iShadow, then me &amp; IverNick hit it off and released a duo mixtape, at "
+"the same time released an Electronic EP with iShadow."
+
+#: index.php:161
+msgid ""
+"接触了Novation Launchpad, Ableton Live，开始了电子音乐创作，并在网上发布了大"
+"量Launchpad有关视频，其中有《Inspirin' Daft Virus》，《Skill The Nero》，"
+"《Scary Monsters &amp; Nice Sprites》和《K-Pop Culture Cali Remix》等，然后制"
+"作了Cali Live 9教程并免费提供大家学习."
+msgstr ""
+"Got to know Novation Launchpad, Ableton Live. So I started my own journey of "
+"producing music, and then I uploaded tons of Launchpad-related videos, "
+"including [Inspirin’ Daft Virus], [Skill The Nero], [Scary Monsters &amp; "
+"Nice Sprites], [K-Pop Culture Cali Remix] and [Retro City], then I recorded "
+"bunch of Live 9 tutorials for free (in Chinese) to help people get around "
+"with Ableton Live and Launchpad."
+
+#: index.php:164
+msgid "受影响艺人"
+msgstr "Influenced Artists"
+
+#: index.php:165
+msgid "音乐偶像："
+msgstr "Music Idols:"
+
+#: index.php:166
+msgid "影视偶像："
+msgstr "Actor Idols:"
+
+#: index.php:167
+msgid "其他偶像："
+msgstr "Other Idols"
+
+#: index.php:183
+msgid "不断超越自己 才能更完美"
+msgstr "To be perfect one must always be better than theirselves"
+
+#: index.php:184
+msgid "我的作品 我的态度"
+msgstr "My Creation My Attitude"
+
+#: index.php:202 index.php:214 index.php:226 index.php:240 index.php:254
+msgid "点击试听"
+msgstr "Click to listen"
+
+#: index.php:207
+msgid ""
+"2014年的电子乐EP，在<strong>Ableton Live</strong>环境下制作完成. 与"
+"<strong>Steo Le Panda</strong>合作完成了中国版《<strong>Harder Better Faster "
+"Stronger</strong>》,其中还收录了我Remix的<strong>克罗地亚狂想曲</strong> 得到"
+"比较多的好评。个人推荐歌曲：<strong>Galaxy, Hyper与Red Alert</strong>(红色警"
+"戒)"
+msgstr ""
+"An EDM EP in 2014, using <strong>Ableton Live</strong> to produce the whole "
+"EP, included a Chinese version of <strong>&lt;Harder Better Faster "
+"Stronger&gt;</strong> with <strong>Steo Le Panda</strong>, and my remix of "
+"<strong>Croatian Rhapsody</strong>, which got many likes by the way. "
+"Recommended songs: <strong>Galaxy, Hyper &amp; Red Alert</strong>"
+
+#: index.php:219
+msgid ""
+"整张专辑融合<strong>Eminem, Bruno Mars, Skylar Grey, Nate Ruess, Cee-lo "
+"Green, Kid Rock, Eric Turner</strong>等顶级欧美大牌之声，歌曲由"
+"<strong>IverNick</strong>操刀填词，<strong>Cali</strong>混音制作，融合Pop, "
+"R&amp;B,混合EDM和Rap, 重新定义New-School Hip Hop, 一定带给你前所未有的听觉盛"
+"宴！"
+msgstr ""
+"The mixtape has <strong>Eminem, Bruno Mars, Skylar Grey, Nate Ruess, Cee-lo "
+"Green, Kid Rock, Eric Turner</strong> chorus part，songs written by "
+"<strong>IverNick</strong>, produced and remixed by <strong>Cali</strong>, "
+"mixed Pop, R&amp;B, EDM and Rap, it redefined New-School Hip Hop,  it’ll "
+"definitely bring you a unforgettable music experience!"
+
+#: index.php:231
+msgid ""
+"Day 'N' Night是<strong>Kid Cudi</strong>大火大热的歌曲，Cali在原曲Acapella的"
+"基础上进行了重新混音.风格Genre: <strong>Dubstep</strong>"
+msgstr ""
+"<strong>Kid Cudi</strong>’s Day ’N’ Night was a hit, I remixed it and turned "
+"it into <strong>DUBSTEP</strong>"
+
+#: index.php:245
+msgid ""
+"<strong>Cali </strong>与 <strong>iShadow</strong> 成立的组合<strong>Big "
+"Chaos</strong>，\n"
+"耗时数月带来了首张电子乐专辑《<strong>Reborn EP</strong>》。\n"
+"专辑以<strong>Dubstep</strong>曲风为主，同时也有<strong>Progressive House、"
+"Electro House、Glitch Hop</strong>等.推荐曲目：<strong>Reborn, Sleepy "
+"Hollow, Want Me To.</strong>"
+msgstr ""
+"<strong>Cali </strong> &amp; <strong>iShadow</strong> presented <strong>Big "
+"Chaos</strong>，\n"
+"we took months to bring to you the <strong>Reborn EP</strong>. \n"
+"Main genre in the EP is<strong>Dubstep</strong>, it also got "
+"<strong>Progressive House、Electro House、Glitch Hop</strong> and just to "
+"name a few. Recommended songs：<strong>Reborn, Sleepy Hollow, Want Me To.</"
+"strong>"
+
+#: index.php:259
+msgid ""
+"15岁的时候（2010）第一次听到了阿姆的专辑《<strong>Recovery</strong>》，被深深"
+"的吸引以后爱上了嘻哈说唱，开始了自己的录音室建设，翻唱，原创以及MV都在不断的"
+"进步。《<strong>Start of the Road</strong>》收录了Mr.Cali自2011年大部分的翻唱"
+"及原创作品，作为自己的成长之路的开始。同时很多歌曲也有许多人参加了合作"
+msgstr ""
+"When I was 15 (2010), I first listened to Eminem’s <strong>Recovery</"
+"strong>, I really love it and quickly fell in love with Hip-hop/Rap, started "
+"my own studio recording, covering, originals and MV shooting. <strong>Start "
+"of the Road</strong> includes my most cover songs and original ones since "
+"2011. Meanwhile I got friends all over the globe featuring in my songs."
+
+#: index.php:266 index.php:280 index.php:292 index.php:304
+msgid "点击观看"
+msgstr "Click to view"
+
+#: index.php:271
+msgid ""
+"我的第一个Launchpad视频作品，工程命名来自<strong>Inspire – Throttle, Daft "
+"from Daft Punk, Virus – M4Sonic</strong>.工程可前往官方Abletive社区搜索下载"
+msgstr ""
+"My very first Launchpad project, titled from <strong>Inspire - Throttle, "
+"Daft from Daft Punk, Virus - M4Sonic</strong>. You can find the project "
+"files in Abletive (en.abletive.com)"
+
+#: index.php:285
+msgid ""
+"来自<strong>SKrillex</strong>的《<strong>Scary Monsters &amp; Nice Sprites</"
+"strong>》想必很多人都耳熟能详，我特地做成了多轨工程并带教学轨分享给大家，工程"
+"教程等可在Abletive社区找到。"
+msgstr ""
+"<strong>Scary Monsters &amp; Nice Sprites</strong> by Skrillex is a song "
+"everybody knows, so I made this project and provided a tutorial track along "
+"with it to share with you guys, still you can find it in Abletive (en."
+"abletive.com)"
+
+#: index.php:297
+msgid ""
+"这是一个<strong>Mashup</strong>，意思是很多歌曲混合成了一首，由标题可以看出采"
+"样来自了<strong>Skrillex, Kill The Noise与Nero</strong>等，不是很难弹但是比较"
+"考验Session节拍乐感的掌握能力。"
+msgstr ""
+"This is a <strong>Mashup</strong>，meaning it’s got plenty different songs "
+"mixed into one, you can tell by the title, it’s a combination of "
+"<strong>Skrillex, Kill The Noise and Nero</strong>, this is not a very hard "
+"project but with Session mode it needs your sense of rhythm."
+
+#: index.php:309
+msgid ""
+"比较难的一个工程之一，工程来自<strong>Nev</strong>.进过我稍微改编终于练成，工"
+"程可前往官方Abletive社区搜索下载。歌曲由俄罗斯方块的旋律与<strong>Los "
+"Angeles Hero</strong>的Drop结合在一起"
+msgstr ""
+"One of the hardest project ever, original by <strong>Nev</strong>. Altered "
+"by me and finally finished practicing, you can get the project file in "
+"Abletive (en.abletive.com)."
+
+#: index.php:321
+msgid "喜欢？点个赞吧"
+msgstr "You like what you see? Click me"
+
+#: index.php:326
+msgid "已有"
+msgstr "I currently have"
+
+#: index.php:326
+msgid "人点赞了呢"
+msgstr "likes so far~"
+
+#: index.php:335
+msgid "我的朋友"
+msgstr "My friends"
+
+#: index.php:346
+msgid ""
+"来自南京的DJ、制作人，<abbr title=\"Project Sync\">同步计划</abbr>电子音乐厂"
+"牌主理人，国内低音音乐与电子舞曲代表人物之一。已在<strong>iTunes、Beatport</"
+"strong>等国外各大音乐售卖网站发行多首单曲以及两张EP，目前主要致力于低音音乐的"
+"制作。3ASiC近期发布了他的新专辑《<strong>THIS ALBUM MADE MY FRIENDS BASSICK</"
+"strong>》，流派主要是<strong>Trap/Future Bass/Drum and Bass</strong>."
+msgstr ""
+"**<strong>3ASiC</strong>**, a DJ, producer, label owner(<strong>Project Sync "
+"Records</strong>), based in Nanjing. His newest album “**<strong>THIS ALBUM "
+"MADE MY FRIENDS BASSICK</strong>**” just came out recently, which focuses on "
+"multi-genre bass music including <strong>Trap/Future Bass/Drum and Bass</"
+"strong>. He used to collabrate with Chinese pop stars like <strong>Momo, "
+"Jeno Liu, Vivian.</strong>"
+
+#: index.php:360
+msgid ""
+"中国<strong>Trap、Moombahton</strong>制作人，喜欢发掘小众音乐文化，擅长将欧美"
+"电子与异域民族音乐相结合，追求与众不同的创作理念和模式，\n"
+"创建了厂牌<strong>Mavericks</strong>，希望将特立独行音乐精神发扬于世."
+msgstr ""
+"Is a Chinese <strong>Trap, Moombahton</strong> producer, likes to dig up the "
+"non-mainstream music culture, he specializes in combining exotic music with "
+"modern EDM, he uses different creation ideas and pattern, \n"
+"He also created the Label <strong>Mavericks</strong>, in the aim of "
+"spreading out the spirit of indie music."
+
+#: index.php:374
+msgid ""
+"山东人，制作人/DJ，<strong>Monstapiece</strong>独立电子音乐厂牌发起人/主理"
+"人。主要风格<strong>House、Drum &amp; Bass、Trap、Downtempo</strong>。05年开"
+"始接触并尝试电子音乐制作。14年与好友一同发起<strong>Monstapiece</strong>地下"
+"厂牌。15年初受邀为伦敦政经中国发展论坛制作开场视频配乐。15年5月受邀参加太湖迷"
+"笛电子音乐节。"
+msgstr ""
+"Shandonger, producer/DJ, <strong>Monstapiece</strong> Indie Electronic Music "
+"Label Creator. Main genres are <strong>House, Drum &amp; Bass, Trap, "
+"Downtempo</strong>. Started producing electronic music since 2005. Created "
+"<strong>Monstapiece</strong> with friends. Got invited to the Taihu Lake "
+"MIDI Electronic Music Festival."
+
+#: index.php:387
+msgid ""
+"95年新晋电子音乐制作人、3MIX独立厂牌创始人、3MIX原创音乐工作室：曲作者/编曲。"
+"作品曾多次登上网易云原创榜，《<strong>No Money,No Honey</strong>》更成为乐视"
+"票选人气铃声。他的作品风格多变，而相对得心应手的风格为<strong>House/"
+"Complextro</strong>"
+msgstr ""
+"Born in 95’, a producer, creator of 3MIX Indie Label, 3MIX Original Music "
+"Studio. His songs got showed up on NetEase Cloud Original Charts, <strong>No "
+"Money, No Honey</strong> became many people’s cellphone ringtone. His songs "
+"changed genre from time to time, representatives are <strong>House/"
+"Complextro</strong>"
+
+#: index.php:400
+msgid ""
+"外号叫赵总，常用ID为Zbreak，93年陕西人，现在暂住英国读大学，以前经常在斗鱼直"
+"播宣传<strong>Launchpad</strong>和社区网站，虽然算不上厉害，但是自己也很用心"
+"的练习"
+msgstr ""
+"Nickname’s Zhao Zong, publicly known as Zbreak, 93 year Shaanxi’er, "
+"currently studying in the United Kingdoms, used to promote "
+"<strong>Launchpad</strong> and Community Website through Douyu TV, though "
+"I’m not that awesome, I did put a lotta work into it."
+
+#: index.php:411
+msgid "椒盐菠萝"
+msgstr "Pineapple"
+
+#: index.php:412
+msgid ""
+"黑龙江省的中学生，电音爱好者,<strong>BILIBILI</strong>弹幕视频网年轻的UP主。"
+"擅长使用<strong>Launchpad</strong>配合<strong>Ableton Live</strong>进行演奏，"
+"代表作品有《<strong>Summer Ashes</strong>》《<strong>Give My Regards! </"
+"strong>》"
+msgstr ""
+"A middle school student in Heilongjiang, EDM-Lover, young video maker in "
+"<strong>BILIBILI</strong>. He is great at playing <strong>Launchpad</strong> "
+"with <strong>Ableton Live</strong>, his famous projects are <strong>Summer "
+"Ashes</strong>, <strong>Give My Regards!</strong> and so on…"
+
+#: index.php:426
+msgid ""
+"00后彩灯，精通live的基础操作，乐于帮助新人，但耐心欠缺。正在学习DJ技术中..."
+msgstr ""
+"Born after 2000, pro at Ableton Live basic techniques, helped those who "
+"first got touch with Ableton Live and Launchpad."
+
+#: index.php:438
+msgid ""
+"Steo Le Panda将古筝，笙等乐器的音素与电子音乐相结合。\n"
+"这种多元素的阴阳结合让你想到了大熊猫：黑白兼备，野性而又温顺，乐观却又忧愁.."
+msgstr ""
+"Step Le Panda combined Guzheng and other Chinese traditional instruments "
+"sounds together"
+
+#: index.php:453
+msgid ""
+"一个苦逼的launchpad中学生玩家。我玩pad大概快有一年了（和菠萝同时玩）目前是"
+"pads模式，但是我仍然是手残_(:з」∠)_ 。。。一心想做出有炫酷<strong>Light "
+"Show</strong>的工程。除了那些好听的电音，我也热衷于acg系列的曲子，所以我也是"
+"一个穿梭在二次元的逗比～(￣▽￣～)~"
+msgstr ""
+"A Launchpad-player who currently studying in middle school. He’s been "
+"playing Launchpad for over a year now (along with Pineapple). He loves ACG "
+"series songs, so he is kinda like Pineapple in a way."
+
+#: index.php:473
+msgid "喜欢吗？订阅 获取更多资讯"
+msgstr "Like what you see? Subscribe and I’ll keep you updated"
+
+#: index.php:476
+msgid "输入您的邮箱地址..."
+msgstr "Enter Your E-mail"
+
+#: index.php:477
+msgid "订阅"
+msgstr "Subscribe"
+
+#: index.php:481
+msgid "订阅成功，感谢您的关注"
+msgstr "Subscription Complete! Thank You~"
+
+#: index.php:492
+msgid "我的网站"
+msgstr "My websites"
+
+#: index.php:500
+msgid "Abletive论坛"
+msgstr "Abletive Forum"
+
+#: index.php:501
+msgid "中国电子乐爱好者交流平台"
+msgstr "A platform for Chinese EDM-Lovers"
+
+#: index.php:502
+msgid ""
+"2015-09-15号正式开放，中国电子乐爱好者聚集地，edm-china.cn/bbs.abletive.com"
+msgstr ""
+"2015-09-15: Grand opening of Chinese EDM forums, edm-china.cn/bbs.abletive."
+"com"
+
+#: index.php:503 index.php:512 index.php:522
+msgid "点击前往"
+msgstr "Click to visit"
+
+#: index.php:510
+msgid "Abletive社区"
+msgstr "Abletive Comunity"
+
+#: index.php:511
+msgid ""
+"中国最大的Ableton Live音乐社区，成立于2014-12-10.<br />先已华丽升级为v3.1，社"
+"交账号绑定、VIP系统、自由投稿与全新改变的个人中心等功能等你来体验！尽在 "
+"abletive.com"
+msgstr ""
+"Chinese Biggest Ableton Live Community，started from 2014-12-10.<br />now "
+"it’s updated to version 3.1, we got brand new features now！More to check "
+"out at abletive.com"
+
+#: index.php:513
+msgid "给个好评"
+msgstr "Rate Me"
+
+#: index.php:521
+msgid ""
+"凯尔尼克创建于2013年，由IverNick和Cali组成的嘻哈电子音乐组合。组合成员Cali是"
+"一名音乐制作人，软件工程师和DJ，而IverNick是一名Rapper，作词人和视觉摄影师，"
+"两人凭着对音乐的热爱和执着，并发布了首张专辑《C.A.L.N.I.C》。"
+msgstr ""
+"Calnic established in 2013, with IverNick and I, the Electronic Hip-hop Duo. "
+"Cali is a music producer, software engineer and a DJ, and IverNick is a "
+"rapper, lyricist and a photographer. We released &lt;C.A.L.N.I.C&gt; with "
+"our same dream towards music."
+
+#: index.php:528
+msgid "关注更多平台"
+msgstr "Follow me on"
+
+#: index.php:560
+msgid "设计 &amp; 开发 by"
+msgstr "Designed &amp; Developed by"
+
+#: index.php:560
+msgid "<a href=\"http://abletive.com\" target=\"_blank\">Abletive社区</a>"
+msgstr ""
+"<a href=\"http://en.abletive.com\" target=\"_blank\">Abletive Community</a>"
+
+#: index.php:560
+msgid "站长"
+msgstr "Creator"
+
+#~ msgid "岁，单身，身高...好像有哪里不对...总之你看到的"
+#~ msgstr "years old, single, my height is… wait, what am I saying … Anyways"
