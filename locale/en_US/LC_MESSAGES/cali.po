@@ -78,7 +78,7 @@ msgid ""
 "擦里</strong> 等等奇葩的叫法(都归功于各位朋友). 关于我的更多详情，请继续往下"
 "看哦 "
 msgstr ""
-"&nbsp; years old, still single, my height is … wait, what am I saying… But "
+"&nbsp; years old, my height is … wait, what am I saying… But "
 "anyways, when you see “<strong>Mr.Cali</strong>”, it’s me, but this is my "
 "former alias. So… wanna know more about me? Cool, scroll down to read more~"
 
