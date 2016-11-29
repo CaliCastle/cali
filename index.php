@@ -94,7 +94,7 @@ textdomain($domain);
             <div class="row">
               <div class="col-md-8 col-md-offset-2 wp1">
                 <h1 class="arrow"><?php echo _("Hi, 打声招呼，先自我介绍一下"); ?></h1>
-                <p><?php echo _("我叫Cali, 全名是"); ?><strong>Cali Castle</strong>, <?php echo _("今年"); ?><script type="text/javascript">var d = new Date(); var m = d.getMonth(); var y = d.getFullYear(); document.write(m>=11?y-1995:y-1996);</script><?php echo _('岁，单身，身高...好像有哪里不对...总之你看到的"<strong>Mr.Cali</strong>"就是我，不过那是我比较早期的名字了。嗯。。。中文名呢，是“<strong>郭晓楠</strong>”，就告诉一下你啦，毕竟大家都还是叫我Cali,或者拼音读法：<strong>擦力/擦里</strong> 等等奇葩的叫法(都归功于各位朋友). 关于我的更多详情，请继续往下看哦 '); ?>O(∩_∩)O</p>
+                <p><?php echo _("我叫Cali, 全名是"); ?><strong>Cali Castle</strong>, <?php echo _("今年"); ?><script type="text/javascript">var d = new Date(); var m = d.getMonth(); var y = d.getFullYear(); document.write(m>=11?y-1995:y-1996);</script><?php echo _('岁，身高...好像有哪里不对...总之你看到的"<strong>Mr.Cali</strong>"就是我，不过那是我比较早期的名字了。嗯。。。中文名呢，是“<strong>郭晓楠</strong>”，就告诉一下你啦，毕竟大家都还是叫我Cali,或者拼音读法：<strong>擦力/擦里</strong> 等等奇葩的叫法(都归功于各位朋友). 关于我的更多详情，请继续往下看哦 '); ?>O(∩_∩)O</p>
               </div>
             </div>
           </div>
